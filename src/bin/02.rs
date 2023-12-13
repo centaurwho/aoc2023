@@ -57,7 +57,7 @@ impl Set {
         s
     }
 }
-
+aaaaa
 struct Config {
     red_max: u32,
     green_max: u32,
